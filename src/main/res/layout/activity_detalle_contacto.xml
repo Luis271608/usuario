@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".DetalleContacto">
+
+    <TextView
+        android:id="@+id/tvCon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/txtConf"
+        android:textSize="@dimen/txtTamañoCon"
+        android:layout_gravity="center" />
+
+    <TextView
+        android:id="@+id/tvNom"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/txtNom"
+        android:textSize="@dimen/txtTamaño"
+        android:layout_marginTop="@dimen/esp_top"
+        />
+
+    <TextView
+        android:id="@+id/tvFec"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/txtFec"
+        android:textSize="@dimen/txtTamaño"
+        android:layout_marginTop="@dimen/esp_top"
+        />
+
+    <TextView
+        android:id="@+id/tvTel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/txtTel"
+        android:textSize="@dimen/txtTamaño"
+        android:layout_marginTop="@dimen/esp_top"
+        />
+
+    <TextView
+        android:id="@+id/tvEma"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/txtEma"
+        android:textSize="@dimen/txtTamaño"
+        android:layout_marginTop="@dimen/esp_top"
+        />
+
+    <TextView
+        android:id="@+id/tvDesc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/txtDesc"
+        android:textSize="@dimen/txtTamaño"
+        android:layout_marginTop="@dimen/esp_top"
+        />
+
+    <Button
+        android:id="@+id/btnEdtDa"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/btnEdDa"
+        android:layout_marginTop="@dimen/esp_top"
+        android:layout_gravity="center"
+
+
+        />
+
+
+</LinearLayout>

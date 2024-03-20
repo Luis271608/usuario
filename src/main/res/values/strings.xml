@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">IdentidadPersonalizada</string>
+    <string name="hintNom">Nombre Completo</string>
+    <string name="hintFec">Fecha de Nacimiento</string>
+    <string name="hintTel">Telefono</string>
+    <string name="hintEma">Email</string>
+    <string name="hintDesc">Descripcion de Contacto</string>
+    <string name="txtSig">Siguiente</string>
+    <string name="txtCan">Cancelar</string>
+    <string name="txtOk">Ok</string>
+    <string name="txtConf">Confirmar Datos</string>
+    <string name="txtNom">Nombre</string>
+    <string name="txtFec">Fecha de Nacimiento</string>
+    <string name="txtTel">Telefono</string>
+    <string name="txtEma">Email</string>
+    <string name="txtDesc">Descripción</string>
+    <string name="btnEdDa">Editar Datos</string>
+
+
+
+</resources>

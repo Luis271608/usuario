@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="txtTamañoCon">30dp</dimen>
+    <dimen name="txtTamaño">25dp</dimen>
+    <dimen name="esp_top">30dp</dimen>
+</resources>
